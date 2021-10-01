@@ -1,0 +1,228 @@
+Uri: https://pl.progs-news.info/
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\index.htm
+Content Type: text/html
+
+Uri: https://pl.progs-news.info/favicon.ico
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://pl.progs-news.info/css/app.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\css\app.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/css/fonts.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\css\fonts.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/css/slick.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\css\slick.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/css/ion.rangeSlider.min.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\css\ion.rangeSlider.min.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/css/jquery.fancybox.min.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/css/intlTelInput.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/build/css/intlTelInput.css
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\build\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://pl.progs-news.info/images/11.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\11.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/images/12.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\12.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/images/13.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\13.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/images/9.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\9.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/images/gerb.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\gerb.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/media/LOTOS.mp4
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\media\LOTOS.mp4
+Content Type: video/mp4
+
+Uri: https://pl.progs-news.info/images/10.jpg
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\10.jpg
+Content Type: image/jpeg
+
+Uri: https://pl.progs-news.info/images/15.jpg
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\15.jpg
+Content Type: image/jpeg
+
+Uri: https://pl.progs-news.info/images/16.jpg
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\16.jpg
+Content Type: image/jpeg
+
+Uri: https://pl.progs-news.info/js/jquery.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/js/ion.rangeSlider.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\js\ion.rangeSlider.min.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/js/jquery.fancybox.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/js/slick.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/js/app.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\js\app.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\ajax\libs\popper.js\1.14.7\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\bootstrap\4.3.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/build/js/intlTelInput.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\build\js\intlTelInput.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/form-assets/js/main.js
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\form-assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://pl.progs-news.info/fonts/down.svg
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\down.svg
+Content Type: image/svg+xml
+
+Uri: https://pl.progs-news.info/fonts/Circe-Regular.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Regular_1.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Regular_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Regular.woff
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Regular.woff
+Content Type: font/woff
+
+Uri: https://pl.progs-news.info/fonts/Circe-Regular.ttf
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraLight.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraLight_1.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraLight_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraLight.woff
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraLight.ttf
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraLight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pl.progs-news.info/fonts/Circe-Thin.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Thin_1.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Thin_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Thin.woff
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Thin.woff
+Content Type: font/woff
+
+Uri: https://pl.progs-news.info/fonts/Circe-Thin.ttf
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Thin.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pl.progs-news.info/fonts/Circe-Light_1.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Light_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Light.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Light.woff
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Light.woff
+Content Type: font/woff
+
+Uri: https://pl.progs-news.info/fonts/Circe-Light.ttf
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pl.progs-news.info/fonts/Circe-Bold_1.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Bold_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Bold.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-Bold.woff
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Bold.woff
+Content Type: font/woff
+
+Uri: https://pl.progs-news.info/fonts/Circe-Bold.ttf
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraBold.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraBold_1.eot
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraBold_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraBold.woff
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://pl.progs-news.info/fonts/Circe-ExtraBold.ttf
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\fonts\Circe-ExtraBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pl.progs-news.info/images/flags.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\flags.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/images/flags%402x.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\images\flags@2x.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/build/img/flags.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\build\img\flags.png
+Content Type: image/png
+
+Uri: https://pl.progs-news.info/build/img/flags@2x.png
+File Name: C:\Users\shevc\Desktop\pl.progs-news.info\build\img\flags@2x.png
+Content Type: image/png
+
